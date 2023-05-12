@@ -1,4 +1,4 @@
-# Micropython | Raspberry Pi Pico with Buzzer
+# Micropython | Raspberry Pi Pico with Buzzer (1)
 
 ## Preparation Hardware
 - Raspberry Pi Pico
