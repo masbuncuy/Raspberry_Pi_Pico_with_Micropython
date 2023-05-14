@@ -1,25 +1,13 @@
-from machine import Pin
-import utime
-
-trigger = Pin(4, Pin.OUT)
-echo = Pin(5, Pin.IN)
-
-
-def ultrasonic_sensor():
-    trigger.low()
-    utime.sleep_us(2)
-    trigger.high()
-    utime.sleep_us(5)
-    trigger.low()
-    while echo.value() == 0:
-        signaloff = utime.ticks_us()
-    while echo.value() == 1:
-        signalon = utime.ticks_us()
-    timepassed = signalon - signaloff
-    distance = (timepassed * 0.0343) / 2
-    print("Jarak dari objek adalah ", distance, "cm")
-
+from machine import Pin, I2C
+import utime as time
+from dht11 import DHT11, InvalidChecksum
 
 while True:
-    ultrasonic_sensor()
-    utime.sleep(1)
+    time.sleep(5)
+    pin = Pin(3, Pin.OUT, Pin.PULL_DOWN)
+    sensor = DHT11(pin)
+    t = (sensor.temperature)
+    h = (sensor.humidity)
+    print("Temperature: {}". format(sensor.temperature))
+    print("humidity: {}". format(sensor.humidity))
+

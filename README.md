@@ -1,9 +1,9 @@
-# Micropython | Raspberry Pi Pico with Ultrasonic Sensor HCSR-04
+# Micropython | Raspberry Pi Pico with DHT-11
 
 ## Preparation Hardware
 - Raspberry Pi Pico
-- Ultrasonic Sensor HCSR-04
-- 4 Cable Female to Female
+- DHT-11
+- 3 Cable Female to Female
 
 ## Schematic 
 
@@ -11,7 +11,6 @@
 |---------------------------|-------------------|
 | GND                       | GND               |
 | VCC                       | VYSY (5 v)        |
-| TRIG                      | GP4               |
-| ECHO                      | GP5               |
+| DATA                      | GP4               |
 
 ## Pictures
