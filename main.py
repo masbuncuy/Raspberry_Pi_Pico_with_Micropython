@@ -1,13 +1,6 @@
-from machine import Pin, I2C
-import utime as time
-from dht11 import DHT11
+from machine import Pin,PWM
+from utime import sleep
+PIR =Pin(1, Pin.IN, Pin.PULL_DOWN)
 
 while True:
-    time.sleep(5)
-    pin = Pin(3, Pin.OUT, Pin.PULL_DOWN)
-    sensor = DHT11(pin)
-    t = (sensor.temperature)
-    h = (sensor.humidity)
-    print("Temperature: {}". format(sensor.temperature))
-    print("humidity: {}". format(sensor.humidity))
-
+    print(PIR.value())
