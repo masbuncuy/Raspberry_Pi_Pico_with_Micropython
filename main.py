@@ -1,6 +1,6 @@
 from machine import Pin, I2C
 import utime as time
-from dht11 import DHT11, InvalidChecksum
+from dht11 import DHT11
 
 while True:
     time.sleep(5)
