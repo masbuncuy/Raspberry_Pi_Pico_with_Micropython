@@ -1,21 +1,18 @@
-# Micropython | Raspberry Pi Pico with MPU6050
+# Micropython | Raspberry Pi Pico with GY-NEO6MV2
 
 ## Preparation Hardware
 - Raspberry Pi Pico
-- MPU6050
-- Cable Female to Female
+- GY-NEO6MV2
+- 4 Cable Female to Female
 
 ## Schematic 
 
-| MPU6050 | Raspberry Pi Pico |
-|---------|---|
-| GND     |   |
-| VCC     |   |
-| SCL     |   |
-| SDA     |   |
-| XDA     |   |
-| XCL     |   |
-| ADO     |   |
-| INT     |   |
+| GY-NEO6MV2 | Raspberry Pi Pico |
+|------------|---|
+| GND        |   |
+| VCC        |   |
+| RX         |   |
+| TX         |   |
+
 
 ## Pictures
