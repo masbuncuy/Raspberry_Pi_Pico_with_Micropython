@@ -1,16 +1,21 @@
-# Micropython | Raspberry Pi Pico with DHT-11
+# Micropython | Raspberry Pi Pico with MPU6050
 
 ## Preparation Hardware
 - Raspberry Pi Pico
-- DHT-11
-- 3 Cable Female to Female
+- MPU6050
+- Cable Female to Female
 
 ## Schematic 
 
-| DHT 11 | Raspberry Pi Pico |
-|--------|-------------------|
-| GND    | GND               |
-| VCC    | VYSY (5 v)        |
-| DATA   | GP3               |
+| MPU6050 | Raspberry Pi Pico |
+|---------|---|
+| GND     |   |
+| VCC     |   |
+| SCL     |   |
+| SDA     |   |
+| XDA     |   |
+| XCL     |   |
+| ADO     |   |
+| INT     |   |
 
 ## Pictures
