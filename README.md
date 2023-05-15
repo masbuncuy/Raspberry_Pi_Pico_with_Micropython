@@ -8,11 +8,11 @@
 ## Schematic 
 
 | OLED SSD 1306 | Raspberry Pi Pico |
-|---------------|----|
-| GND           |   |
-| VCC           |   |
-| SCL           |   |
-| SDA           |   |
+|---------------|-------------------|
+| GND           | GND               |
+| VCC           | VBUS              |
+| SCL           | GP1               |
+| SDA           | GP0               |
 
 
 ## Pictures
