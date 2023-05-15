@@ -7,10 +7,10 @@
 
 ## Schematic 
 
-| Ultrasonic Sensor HCSR-O4 | Raspberry Pi Pico |
-|---------------------------|-------------------|
-| GND                       | GND               |
-| VCC                       | VYSY (5 v)        |
-| DATA                      | GP3               |
+| DHT 11 | Raspberry Pi Pico |
+|--------|-------------------|
+| GND    | GND               |
+| VCC    | VYSY (5 v)        |
+| DATA   | GP3               |
 
 ## Pictures
