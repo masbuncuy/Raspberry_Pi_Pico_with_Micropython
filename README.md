@@ -1,18 +1,18 @@
-# Micropython | Raspberry Pi Pico with GY-NEO6MV2
+# Micropython | Raspberry Pi Pico with OLED SSD1306
 
 ## Preparation Hardware
 - Raspberry Pi Pico
-- GY-NEO6MV2
+- OLED SSD1306
 - 4 Cable Female to Female
 
 ## Schematic 
 
-| GY-NEO6MV2 | Raspberry Pi Pico |
-|------------|---|
-| GND        |   |
-| VCC        |   |
-| RX         |   |
-| TX         |   |
+| OLED SSD 1306 | Raspberry Pi Pico |
+|---------------|----|
+| GND           |   |
+| VCC           |   |
+| SCL           |   |
+| SDA           |   |
 
 
 ## Pictures
