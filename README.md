@@ -7,3 +7,4 @@
 - Micropython | Raspberry Pi Pico dengan MQ-2
 - Micropython | Raspberry Pi Pico dengan MPU6050
 - Micropython | Raspberry Pi Pico dengan GY-NEO6MV2
+- Micropython | Raspberry Pi Pico dengan OLED SSD1306
