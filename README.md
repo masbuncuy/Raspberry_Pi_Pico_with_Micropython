@@ -1,16 +1,17 @@
-# Micropython | Raspberry Pi Pico with Pir Motion Sensor
+# Micropython | Raspberry Pi Pico with LCD TM1637 7 Segments
 
 ## Preparation Hardware
 - Raspberry Pi Pico
 - Pir Motion Sensor
-- 3 Cable Female to Female
+- 4 Cable Female to Female
 
 ## Schematic 
 
-| Ultrasonic Sensor HCSR-O4 | Raspberry Pi Pico |
-|---------------------------|-------------------|
-| VCC                       | VBUS              |
-| OUTPUT                    | GP22              |
-| GND                       | GND               |
+| LCD TM1637 7 Segment | Raspberry Pi Pico |
+|----------------------|-------------------|
+| VCC                  | VBUS              |
+| CLK                  | GP5               |
+| GND                  | GND               |
+| DIO                  | GP4               |
 
 ## Pictures!

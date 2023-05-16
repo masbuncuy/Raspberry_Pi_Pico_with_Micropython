@@ -1,14 +1,10 @@
-from machine import Pin
 import utime as time
-
+import tm1637
+from machine import Pin
+tm = tm1637.TM1637(clk=Pin(5), dio=Pin(4))
 number = 0
-PIR = Pin(1, Pin.IN, Pin.PULL_DOWN)
-print("--------------- Pir -------------")
-time.sleep(1)
-print("---------------------------------")
 
 while True:
-    print("Nilai status pir sekarang: " . PIR.value())
-    if PIR.value() == 1:
-        print("Hayo Mau Gerak Kemana, kamu udah melakukan gerakan ke ", number + 1, "sekian kali")
+    tm.show(str(number))
     time.sleep(1)
+    number = number+1
