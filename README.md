@@ -3,7 +3,7 @@
 ## Preparation Hardware
 - Raspberry Pi Pico
 - Flame Sensor
-- 4 Cable Female to Female
+- 3 Cable Female to Female
 
 ## Schematic 
 
