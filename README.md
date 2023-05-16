@@ -10,7 +10,7 @@
 | Ultrasonic Sensor HCSR-O4 | Raspberry Pi Pico |
 |---------------------------|-------------------|
 | VCC                       | VBUS              |
+| OUTPUT                    | GP22              |
 | GND                       | GND               |
-| OUTPUT                    | GP1               |
 
-## Pictures
+## Pictures!
