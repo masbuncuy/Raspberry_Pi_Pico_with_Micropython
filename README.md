@@ -3,15 +3,15 @@
 ## Preparation Hardware
 - Raspberry Pi Pico
 - MQ2
-- 4 Cable Female to Female
+- 3 Cable Female to Female
 
 ## Schematic 
 
 | LCD TM1637 7 Segment | Raspberry Pi Pico |
-|----------------------|-------------|
-| VCC                  | VBUS        |
-| AO                   |             |
-| GND                  | GND         |
-| DO                   |             |
+|----------------------|-------------------|
+| VCC                  | VBUS              |
+| AO                   | GP1               |
+| GND                  | GND               |
+| DO                   |                   |
 
 ## Pictures!
