@@ -8,10 +8,10 @@
 ## Schematic 
 
 | Buzzer | Raspberry Pi Pico |
-|--------|------------------|
-| GND    | GND              |
-| VCC    | VBUS             |
-| DO     | GP1              |
-| AO     |                  |
+|--------|-------------------|
+| GND    | GND               |
+| VCC    | VBUS              |
+| DO     | GP1               |
+| AO     |                   |
 
 ## Pictures
