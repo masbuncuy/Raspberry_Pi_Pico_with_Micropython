@@ -4,7 +4,7 @@
 - Raspberry Pi Pico
 - Flame Sensor
 - 3 Cable Female to Female
-
+   
 ## Schematic 
 
 | Buzzer | Raspberry Pi Pico |
