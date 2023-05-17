@@ -7,11 +7,11 @@
    
 ## Schematic 
 
-| Buzzer | Raspberry Pi Pico |
-|--------|-------------------|
-| GND    | GND               |
-| VCC    | VBUS              |
-| DO     | GP1               |
-| AO     |                   |
+| Flame Sensor | Raspberry Pi Pico |
+|--------------|-------------------|
+| GND          | GND               |
+| VCC          | VBUS              |
+| DO           | GP1               |
+| AO           |                   |
 
 ## Pictures
