@@ -14,4 +14,7 @@
 | GND                  | GND               |
 | DO                   |                   |
 
-## Pictures!
+## Pictures
+
+## References
+[peppe8o.com](https://peppe8o.com/mq-2-with-raspberry-pi-pico-gas-sensor-wiring-and-micropython-code/)
