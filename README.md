@@ -2,6 +2,7 @@
 
 - Install Python 
 - - https://www.python.org/downloads/
+- - check version `python --version`
 
 - Install Thonny IDE
 - - https://thonny.org/ 
