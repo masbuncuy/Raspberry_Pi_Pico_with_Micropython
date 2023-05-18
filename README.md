@@ -15,4 +15,4 @@
 ## Pictures
 
 ## References 
-[https://www.tomshardware.com](https://www.tomshardware.com/how-to/buzzer-music-raspberry-pi-pico)
+[tomshardware](https://www.tomshardware.com/how-to/buzzer-music-raspberry-pi-pico)
