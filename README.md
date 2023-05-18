@@ -15,3 +15,6 @@
 | DIO                  | GP4               |
 
 ## Pictures!
+
+## References 
+(microcontrollerslab)[https://microcontrollerslab.com/7-segment-display-raspberry-pi-pico/]
