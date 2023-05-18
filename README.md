@@ -15,3 +15,6 @@
 | AO           |                   |
 
 ## Pictures
+
+## References 
+[theelectronics](https://www.theelectronics.co.in/2021/07/flame-sensor-raspberry-pi-pico.html)
