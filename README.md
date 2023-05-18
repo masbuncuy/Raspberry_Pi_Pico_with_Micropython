@@ -1,17 +1,13 @@
-# Micropython | Raspberry Pi Pico with MQ2
+# Setup 
 
-## Preparation Hardware
-- Raspberry Pi Pico
-- MQ2
-- 3 Cable Female to Female
+- Install Python 
+https://www.python.org/downloads/
 
-## Schematic 
+- Install Thonny IDE
+https://thonny.org/ 
 
-| LCD TM1637 7 Segment | Raspberry Pi Pico |
-|----------------------|-------------------|
-| VCC                  | VBUS              |
-| AO                   | GP1               |
-| GND                  | GND               |
-| DO                   |                   |
+- Install Driver USB,
+Download Folder CH34SER : 
 
-## Pictures!
+- Install Driver Micropython 
+https://micropython.org/download/rp2-pico/
