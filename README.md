@@ -14,5 +14,7 @@
 | SCL           | GP1               |
 | SDA           | GP0               |
 
-
 ## Pictures
+
+## References 
+[peppe80](https://peppe8o.com/ssd1306-i2c-oled-raspberry-pi-pico-micropython/)
