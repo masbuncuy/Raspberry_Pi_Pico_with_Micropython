@@ -15,3 +15,6 @@
 | ECHO                      | GP5               |
 
 ## Pictures
+
+## References
+[tomshardware](https://www.tomshardware.com/how-to/raspberry-pi-pico-ultrasonic-sensor)
