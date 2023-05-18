@@ -38,10 +38,22 @@
 - - [Link Yt]()
 - - [Link Branch](https://github.com/masbuncuy/Raspberry_Pi_Pico_with_Micropython/tree/with_MPU6050)
 
-- Micropython | Raspberry Pi Pico dengan GY-NEO6MV2
+- Micropython | Raspberry Pi Pico dengan MPU6050 Kalman Filter(2)
 - - [Link Yt]()
-- - [Link Branch](https://github.com/masbuncuy/Raspberry_Pi_Pico_with_Micropython/tree/with_GY-NEO6MV2)
+- - [Link Branch]()
 
 - Micropython | Raspberry Pi Pico dengan Buzzer (2) (Music)
 - - [Link Yt]()
 - - [Link Branch](https://github.com/masbuncuy/Raspberry_Pi_Pico_with_Micropython/tree/with_Buzzer_Music)
+
+- Micropython | Raspberry Pi Pico dengan Web Browser Traffic Led
+- - [Link Yt]()
+- - [Link Branch]()
+
+- Micropython | Raspberry Pi Pico dengan GY-NEO6MV2
+- - [Link Yt]()
+- - [Link Branch](https://github.com/masbuncuy/Raspberry_Pi_Pico_with_Micropython/tree/with_GY-NEO6MV2)
+
+- Micropython | Raspberry Pi Pico dengan Motor DC 3-6v
+- - [Link Yt]()
+- - [Link Branch]()
