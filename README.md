@@ -14,3 +14,6 @@
 | DATA   | GP3               |
 
 ## Pictures
+
+## References
+[instructables](https://www.instructables.com/DHT11-With-Raspberry-Pi-Pico/)
