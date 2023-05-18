@@ -13,3 +13,6 @@
 | +      | GP1               |
 
 ## Pictures
+
+## References 
+[https://www.tomshardware.com](https://www.tomshardware.com/how-to/buzzer-music-raspberry-pi-pico)
