@@ -8,8 +8,8 @@
 - - https://thonny.org/ 
 
 - Install Driver USB,
-Download Folder CH34SER : 
-- - [link](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmasbuncuy%2FRaspberry_Pi_Pico_with_Micropython%2Ftree%2Fsetup%2FCH341SER)
+Download Folder CH340 : 
+- - [link](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmasbuncuy%2FRaspberry_Pi_Pico_with_Micropython%2Ftree%2Fsetup%2FUSB%2520Driver%2520CH340G)
 
 - Install Driver Micropython 
 - - https://micropython.org/download/rp2-pico/
