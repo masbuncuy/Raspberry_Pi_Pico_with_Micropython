@@ -8,14 +8,17 @@
 ## Schematic 
 
 | MPU6050 | Raspberry Pi Pico |
-|---------|---|
-| GND     |   |
-| VCC     |   |
-| SCL     |   |
-| SDA     |   |
-| XDA     |   |
-| XCL     |   |
-| ADO     |   |
-| INT     |   |
+|---------|-------------------|
+| GND     |                   |
+| VCC     |                   |
+| SCL     |                   |
+| SDA     |                   |
+| XDA     |                   |
+| XCL     |                   |
+| ADO     |                   |
+| INT     |                   |
 
 ## Pictures
+
+## References 
+(how2electronics)[https://how2electronics.com/interfacing-mpu6050-with-raspberry-pi-pico-micropython/]
